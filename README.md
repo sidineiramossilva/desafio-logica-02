@@ -12,7 +12,7 @@ Como funciona
 Como usar
 ---
 
-Clone o repositório como o comando git clone
+Clone o repositório com o comando git clone
 ````
 https://github.com/sidineiramossilva/desafio-logica-02
 ````
