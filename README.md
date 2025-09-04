@@ -9,8 +9,21 @@ Como funciona
 - Teste da soma de dois números zerados.
 - Teste da soma de dois números negativos.
 
-
+Como usar
 ---
+
+Clone o repositório como o comando git clone
+````
+https://github.com/sidineiramossilva/desafio-logica-02
+````
+
+Dentro da pasta desafio-logica-02 vai ser preciso instalar as dependências:
+````
+npm init -y
+````
+````
+npm i mocha chai
+````
 
 Como testar
 ---
